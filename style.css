@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 20px;
+}
+
+h1 {
+    color: #d1b194;
+    font-size: 36px;
+    margin: 0;
+}
+
+.contact {
+    color: #333;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.circular-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid #000;
+    margin: 20px auto;
+}
+
+.address {
+    display: inline-block;
+    text-align: left;
+}
+
+.address h2 {
+    color: #d1b194;
+    font-size: 16px;
+    margin: 0;
+}
+
+.address p {
+    font-size: 14px;
+    color: #333;
+}
+
+.address hr {
+    border: none;
+    border-top: 4px solid #333; /* Зміна товщини лінії */
+    margin: 10px 0;
+}
